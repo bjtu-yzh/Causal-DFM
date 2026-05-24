@@ -1,0 +1,16 @@
+{
+  "input_dir": "/Users/liuzihedemacbook/Desktop/my_project/experiment/cleaned_data_zz500",
+  "output_dir": "/Users/liuzihedemacbook/Desktop/my_project/experiment/cleaned_data_zz500_baseline_ready",
+  "total_files": 500,
+  "written_files": 500,
+  "skipped_files": 0,
+  "totals": {
+    "rows_in": 367500,
+    "rows_out": 367500,
+    "bad_tradeDate_rows": 0,
+    "duplicate_tradeDate_rows": 0,
+    "placeholder_cells": 0,
+    "duplicate_column_groups": 500,
+    "bad_close_rows": 0
+  }
+}
